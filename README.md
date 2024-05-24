@@ -1,0 +1,2 @@
+# newsbot
+Discord News Bot
